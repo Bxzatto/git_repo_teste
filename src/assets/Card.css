@@ -1,0 +1,22 @@
+.cardContainer{
+    background-color: #49454f;
+    border: 1px solid #79757e;
+    border-radius: 10px;
+    margin-top: 20px;
+    min-height: 40%;
+    max-width: 70%;
+    height: 123px;
+    width: 950px;
+}
+
+.cardTitle{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.cardDescription{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
